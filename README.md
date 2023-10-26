@@ -18,9 +18,7 @@
 -   **rm used to remove files**
 
 -   **rm -i used to prevent files from accidently deletion by
-    confirming**
-
-**before deletion.**
+    confirming before deletion.**
 
 -   **rm -rf used to everything from directory.**
 
@@ -30,9 +28,7 @@
 
 -   **head used to show specific content from a file from starting.**
 
--   **tail used to show specific content from a file from end.**
-
-**Eg. tail -15 /dir1.**
+-   **tail used to show specific content from a file from end.Eg. tail -15 /dir1.**
 
 -   **cat used to view and modifying a content of file.Eg. cat file.txt or cat \> file2.txt (for modifying)**
 
@@ -77,9 +73,7 @@
 
 -   **& (ampersand ) used to run command in a background.**
 
--   **&& works as a logical AND (i.e run commands only if both**
-
-> **command are correct otherwise shows error).**
+-   **&& works as a logical AND (i.e run commands only if both command are correct otherwise shows error).**
 
 -   **# used to comment**
 
