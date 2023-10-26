@@ -22,10 +22,10 @@
 *	**cat**                           used to view and modifying a content of file.
                                  Eg.  cat file.txt  or cat > file2.txt (for modifying)
 *	**ls -la**                        used to list all the files including hidden files.
-*	**pwd **                       used to determined the location of currently working directory.
-*	**cd ~ **                        used to go to the  home directory.
+*	**pwd**                       used to determined the location of currently working directory.
+*	**cd ~**                        used to go to the  home directory.
 *	 **cd..**                        used to go one directory back.
-*	**echo **                      used to print
+*	**echo**                      used to print
 *	**append (>)**           used to append content to a file .
 *	**append (>>)**           used to append content to a file without overwriting .
 
