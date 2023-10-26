@@ -3,7 +3,7 @@
 
 ## Most used Linux Commands
 
-* touch                      used to create a new files like text files , media files.
+* touch               >>       used to create a new files like text files , media files.
 •	cd                             used to change a directory/folder
 •	 ls                              used to list all the files of a directory.
 •	ls -l                            used to list files in long list format
