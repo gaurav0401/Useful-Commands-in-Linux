@@ -28,9 +28,9 @@
 
 -   **head** used to show specific content from a file from starting.
 
--   **tail** used to show specific content from a file from end. Eg. tail -15 /dir1.
+-   **tail** used to show specific content from a file from end. (Eg. tail -15 /dir1).
 
--   **cat** used to view and modifying a content of file. Eg. cat file.txt or cat \> file2.txt (for modifying).
+-   **cat** used to view and modifying a content of file. (Eg. cat file.txt or cat \> file2.txt (for modifying)).
 
 -   **ls -la** used to list all the files including hidden files.
 
