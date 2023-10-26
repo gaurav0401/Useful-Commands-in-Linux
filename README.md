@@ -1,7 +1,7 @@
 # Useful-Commands-in-Linux
 
 
-                                      ## Most used Linux Commands
+## Most used Linux Commands
 
 •	touch                      used to create a new files like text files , media files.
 •	cd                             used to change a directory/folder
@@ -30,7 +30,7 @@
 •	append (>>)           used to append content to a file without overwriting .
 
   
-                                            ## Special  Keys Stroke
+  ## Special  Keys Stroke
 •	Ctrl + C                           used to cancel the currently running command.
 •	Ctrl +A                            move the cursor at the beginning of line.
 •	Ctrl +B                             move the cursor backward one character.
@@ -42,7 +42,7 @@
 •	Ctrl + S                            stops all output on screen.
  
      
-                                          ## Control Operators
+   ## Control Operators
 
 •	;                              used to operate more than one command in a line.
 •	& (ampersand )     used to run command in a background.
