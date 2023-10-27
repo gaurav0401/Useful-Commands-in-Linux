@@ -86,9 +86,9 @@
 
 ## Introduction to vi editor
 
-**vi** used to create new file (ie vi filename) [Note: use  Esc key then press ":wq" to save file and exit editor].
-**vi -R filename** used open file in read-only mode.
-**view filename** used to view file.
+- **vi** used to create new file (ie vi filename) [Note: use  Esc key then press ":wq" to save file and exit editor].
+- **vi -R filename** used open file in read-only mode.
+- **view filename** used to view file.
 -   
 
 -   ## Basic Linux Tools
@@ -99,6 +99,6 @@
 -   **time**  used to summarize the execution time of a command.
 -   
 ## Shell Scripting in Linux
-1.A shell file is created with .sh extension (i.e. vim myscript.sh).
-2.To run script use   **sh file.sh** command
+-  A shell file is created with .sh extension (i.e. vim myscript.sh).
+-  To run script use   **sh file.sh** command
 
