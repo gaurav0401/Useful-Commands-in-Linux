@@ -97,7 +97,7 @@
 -   **cal** used to show calendar.
 -   **date** used to show date.
 -   **time**  used to summarize the execution time of a command.
--   
+  
 ## Shell Scripting in Linux
 -  A shell file is created with .sh extension (i.e. vim myscript.sh).
 -  To run script use   **sh file.sh** command
