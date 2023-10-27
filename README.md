@@ -44,7 +44,9 @@
 
 -   **append (>)** used to append content to a file .
 
--   **append (>>)** used to append content to a file without overwriting.  
+-   **append (>>)** used to append content to a file without overwriting.
+-   **grep** used to search particular patterns in a file (i.e. filter).
+-   **pile (|)** used to join two command.
 
 ## Special Keys Stroke
 
@@ -62,7 +64,7 @@
 
 -   **Ctrl + U** delete the complete line.
 
--   **Ctrl + R** used for searching previously used command.
+-   **Ctrl + R** used for searching previously used commands.
 
 -   **Ctrl + S** stops all output on screen.
 
@@ -77,3 +79,10 @@
 -   **#** used to comment**
 
 -   **history** list all the commands used by the user.
+
+-   ## Basic Linux Tools
+
+-   **sleep**  used to suspend execution for a specific number of seconds.
+-   **cal** used to show calendar.
+-   **date** used to show date.
+-   **time**  used to summarize the execution time of a command.
