@@ -50,7 +50,7 @@
 -   **ps** This command shows all the running processes.
 -   **kill**  used to kill the process using process id (PID).
 -   **NOTE: you can use -9 to forcefully kill the app e.g kill -9 122**.
--   
+  
 
 ## Special Keys Stroke
 
@@ -89,7 +89,7 @@
 - **vi** used to create new file (ie vi filename) [Note: use  Esc key then press ":wq" to save file and exit editor].
 - **vi -R filename** used open file in read-only mode.
 - **view filename** used to view file.
--   
+   
 
 -   ## Basic Linux Tools
 
