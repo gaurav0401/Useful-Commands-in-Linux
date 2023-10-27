@@ -47,6 +47,10 @@
 -   **append (>>)** used to append content to a file without overwriting.
 -   **grep** used to search particular patterns in a file (i.e. filter).
 -   **pile (|)** used to join two command.
+-   **ps** This command shows all the running processes.
+-   **kill**  used to kill the process using process id (PID).
+-   **NOTE: you can use -9 to forcefully kill the app e.g kill -9 122**.
+-   
 
 ## Special Keys Stroke
 
@@ -79,6 +83,13 @@
 -   **#** used to comment**
 
 -   **history** list all the commands used by the user.
+
+## Introduction to vi editor
+
+**vi** used to create new file (ie vi filename) [Note: use  Esc key then press ":wq" to save file and exit editor].
+**vi -R filename** used open file in read-only mode.
+**view filename** used to view file.
+-   
 
 -   ## Basic Linux Tools
 
