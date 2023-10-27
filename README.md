@@ -91,7 +91,7 @@
 - **view filename** used to view file.
    
 
--   ## Basic Linux Tools
+## Basic Linux Tools
 
 -   **sleep**  used to suspend execution for a specific number of seconds.
 -   **cal** used to show calendar.
