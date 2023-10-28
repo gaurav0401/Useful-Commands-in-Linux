@@ -100,5 +100,12 @@
   
 ## Shell Scripting in Linux
 -  A shell file is created with .sh extension (i.e. vim myscript.sh).
--  To run script use   **sh file.sh** command
+-  To run script use   **sh file.sh** command.
+
+## User management in Linux
+-  **/etc/passswd**  contains the information about user account and their passwords.
+-    **/etc/shadow**  contains the information about user  passwords in encrypted form.
+-  **/etc/group**  contains the information about groupss.
+-  **/etc/gshadow**  contains the information about secure group.
+
 
