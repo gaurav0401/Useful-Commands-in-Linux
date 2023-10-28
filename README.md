@@ -110,4 +110,8 @@
 -  **/etc/group**  contains the information about groupss.
 -  **/etc/gshadow**  contains the information about secure group.
 
+## File permissions
+- **r**  read -- denoted with 4
+- **w**   write -- denoted with 2
+- **x**   execute  -- denoted with 1
 
