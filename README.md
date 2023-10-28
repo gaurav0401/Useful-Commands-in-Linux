@@ -101,6 +101,7 @@
   
 ## Shell Scripting in Linux
 -  A shell file is created with .sh extension (i.e. vim myscript.sh).
+-  add **#! /bin/bash** at the starting .
 -  To run script use   **sh file.sh** command.
 
 ## User management in Linux
