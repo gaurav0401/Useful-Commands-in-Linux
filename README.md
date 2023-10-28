@@ -114,4 +114,5 @@
 - **r**  read -- denoted with 4
 - **w**   write -- denoted with 2
 - **x**   execute  -- denoted with 1
+- **chmod** used to change permission [e.g chmod a=rw file.txt   ]
 
