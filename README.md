@@ -116,3 +116,5 @@
 - **x**   execute  -- denoted with 1
 - **chmod** used to change permission [e.g chmod u+rw file.txt   ]
 
+**NOTE: strings command is used to read binary files e.g strings /bin/pwd **
+
