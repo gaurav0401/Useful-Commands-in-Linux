@@ -41,6 +41,7 @@
 -   **cd..** used to go one directory back.
 
 -   **echo** used to print
+-    **clear** used to clear the screen.
 
 -   **append (>)** used to append content to a file .
 
